@@ -5,3 +5,5 @@ function startFan() {
     console.log('press the switch');
 }
 startFan();
+console.log("Walking up in the morning");
+startFan();
